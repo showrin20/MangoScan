@@ -27,15 +27,15 @@ A deep learning–based mango variety recognition system built using **PyTorch**
 
 #### 📏 Image Dimension Distribution
 
-![Image Dimension Distribution](assets/Image%20Dimension%20Distribution.png)
+![Image Dimension Distribution](Image%20Dimension%20Distribution.png)
 
 #### 🍋 Mango Species Image Distribution
 
-![Mango Species Image Distribution](assets/Mango%20Species%20Image%20Distribution.png)
+![Mango Species Image Distribution](Mango%20Species%20Image%20Distribution.png)
 
 #### 🌈 RGB Space Distribution (Sampled Pixels)
 
-![RGB Space Distribution](assets/RGB%20Space%20Distribution%20\(Sampled\).png)
+![RGB Space Distribution](RGB%20Space%20Distribution%20\(Sampled\).png)
 
 #### 🚀 Technologies:
 
