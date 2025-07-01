@@ -23,6 +23,20 @@ A deep learning–based mango variety recognition system built using **PyTorch**
 * **Size**: 2012 labeled mango images
 * **Preprocessing**: Stratified sampling, normalization, and augmentation
 
+## 🖼️ Dataset Visualizations
+
+#### 📏 Image Dimension Distribution
+
+![Image Dimension Distribution](assets/Image%20Dimension%20Distribution.png)
+
+#### 🍋 Mango Species Image Distribution
+
+![Mango Species Image Distribution](assets/Mango%20Species%20Image%20Distribution.png)
+
+#### 🌈 RGB Space Distribution (Sampled Pixels)
+
+![RGB Space Distribution](assets/RGB%20Space%20Distribution%20\(Sampled\).png)
+
 #### 🚀 Technologies:
 
 `Python` • `PyTorch` • `TorchVision` • `Streamlit` • `Chart.js` • `PIL` • `Tailwind CSS`
