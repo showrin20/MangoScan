@@ -89,7 +89,7 @@ EXAMPLE_IMAGES = {
     },
     "Nilambori": {
         "description": "Medium-sized, oval-shaped, deep yellow with smooth texture",
-        "local_path": "mango_sample/Nilambori/IMG_3195.jpg",  # Fixed: more appropriate path
+        "local_path": "mango_sample/Nilambori/IMG_3717.jpg",  # Fixed: more appropriate path
         "url": ""
     }
 }
