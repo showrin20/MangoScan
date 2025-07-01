@@ -1,0 +1,9 @@
+/* Center file uploader input */
+input[type="file"] {
+    margin: auto;
+}
+
+/* Ensure canvas fits nicely */
+canvas {
+    max-width: 100%;
+}
