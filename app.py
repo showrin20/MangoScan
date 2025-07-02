@@ -611,6 +611,5 @@ st.markdown("""
     <h4>🏆 Model Achievement Summary</h4>
     <p><strong>ShuffleNet v2</strong> achieved <strong>95.05%</strong> test accuracy, outperforming:</p>
     <p>📱 MobileNet v2 (91.09%) | ⚡ EfficientNet-Lite0 (92.41%) | 🔥 SqueezeNet (92.08%)</p>
-    <p><em>Built with ❤️ using Streamlit, PyTorch & advanced deep learning techniques</em></p>
 </div>
 """, unsafe_allow_html=True)
